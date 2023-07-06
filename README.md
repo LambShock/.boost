@@ -1,2 +1,2 @@
 # .boost
-A .boost repo
+A .boost repo to accompany ZTP installation.
